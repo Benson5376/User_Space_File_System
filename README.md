@@ -86,8 +86,6 @@ This project implements a user-space file system using FUSE (File System in User
 - `my_readdir()`: Lists directory contents
 - `my_read()`: Reads file contents
 
-## Contributors
-
-- Original Developer: Student Project (CS@NYCU)
-- Course: Introduction to Operating Systems
-- Professor: Li-Pin Chang
+## 6. Contributors
+- **Name:** Hua-En (Benson) Lee
+- **Email:** enen1015@gmail.com
