@@ -63,6 +63,15 @@ This project implements a user-space file system using FUSE (File System in User
    ```bash
    sudo umount -l tarfs
    ```
+### Automated Testing
+1. Put ```User_Face_File_System.c``` in the same directory as demo.sh
+2. In the following files, change “nctuos” to your user account name
+   -```./answer/1.txt```
+   -```./answer/2.txt```
+   -```./answer/5.txt```
+3. Add an executable attribute to ```./testcase/*txt```
+4. Run the script: ```./demo.sh <pathname of your FUSE server>```
+
 
 ## Dependencies
 
